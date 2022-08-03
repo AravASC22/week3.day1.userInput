@@ -1,5 +1,7 @@
 # week3.day1.userInput
 
+Members: Arav, Hector, Anthony
+
 ## Instructions
 1. Fork and clone this repo: [week3.day1.userInput](https://github.com/AllStarCodeOrg/week3.day1.userInput)
 2. Do NOT alter the HTML or CSS and do not use an outside library.
